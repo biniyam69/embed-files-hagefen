@@ -1,6 +1,6 @@
 (function() {
     const script = document.createElement('script');
-    script.src = 'https://biniyam69.github.io/embed-files-hagefen/index-BlciNSwU.js';
+    script.src = 'https://biniyam69.github.io/embed-files-hagefen/index-Bmnd8x-S.js';
     script.onload = () => {
       window.renderChatWidgetBizai('chat-widget-container');
     };
